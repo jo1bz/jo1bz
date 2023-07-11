@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jo1bz
-- 👀 I’m interested in JavaScript, TypeScript, C#, Java, AWS
+- 👀 I’m interested in JavaScript, TypeScript, C#, Java, AWS, FP
 - 🌱 I’m currently learning Algolia, Shopify Liquid
 - 📫 How to reach me ...
 
